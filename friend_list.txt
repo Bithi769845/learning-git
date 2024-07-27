@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 Sanju," directed by Rajkumar Hirani,
  is a biographical film that delves into 
 the tumultuous life of Bollywood actor Sanjay Dutt. 
@@ -19,4 +20,4 @@ version stars Alia Bhatt as Sehmat and presents a gripping narrative of her espi
  skilled spy who faces numerous challenges and moral dilemmas. While the core of Sehmat's story is true, certain aspects are embellishe
 d or altered for dramatic purposes. The real-life Sehmat's identity remains undisclosed, and her story is likely more complex 
 and nuanced than depicted, with the film focusing on major events to keep the narrative engaging and emotionally impactful.
->>>>>>> table-version
+
