@@ -1,15 +1,18 @@
+[GitHub] A first-party GitHub OAuth application has been added to your account
+Inbox
 
-Hi Bithi,
+GitHub <noreply@github.com>
+Fri, Jul 26, 11:39 PM (1 day ago)
+to me
 
-[Final Call] I noticed you haven't reserved your seat for India's most futuristic GenAI conference yet. I wanted to remind you that there are limited seats left to secure your spot for DataHack Summit 2024.
+Hey Bithi769845!
 
-Book your tickets now
+A first-party GitHub OAuth application (Git Credential Manager) with gist, repo, and workflow scopes was recently authorized to access your account.
+Visit https://github.com/settings/connections/applications/0120e057bd645470c1ed for more information.
 
-Seats are filling up fast given the overwhelming interest. Don’t miss out on this transformative GenAI experience. 
+To see this and other security events for your account, visit https://github.com/settings/security-log
 
-For more information, feel free to call or message at +91-9354711240, or reply to this email for any further assistance.
+If you run into problems, please contact support by visiting https://github.com/contact
 
-Best Regards,
-
-Shreya
->>>>>>> table-version
+Thanks,
+The GitHub Team
